@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/1132 T-3 Durech.obj-c38ab7c898b8970b185ef109f37bd4cb.mesh"
+
+[deps]
+
+files=[ "res://.import/1132 T-3 Durech.obj-c38ab7c898b8970b185ef109f37bd4cb.mesh" ]
+
+source_file="res://Meshes/1132 T-3 Durech.obj"
+dest_files=[ "res://.import/1132 T-3 Durech.obj-c38ab7c898b8970b185ef109f37bd4cb.mesh", "res://.import/1132 T-3 Durech.obj-c38ab7c898b8970b185ef109f37bd4cb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286
